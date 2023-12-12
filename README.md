@@ -1,1 +1,7 @@
 # NODE JS Apps
+
+> These are small functionality apps build using Node JS, Express JS, NodeMailer, Bootstrap and other technologies.
+
+## Applications List
+1.  Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
+2.  Express Website [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/express-website)
