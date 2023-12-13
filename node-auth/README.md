@@ -28,13 +28,13 @@
 
 ##### Into the project directory
 
-`cd node auth`
+`cd node-auth`
 
 ##### Create MongoDB Database and collection
 
 `mongodb://localhost:27017/nodeauth.users`
 
-With different parameters
+With different fields
 - _id
 - username
 - password
