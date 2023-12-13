@@ -5,3 +5,4 @@
 ## Applications List
 1.  Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
 2.  Express Website [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/express-website)
+3.  NodeJS Authentication [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/node-auth)
