@@ -12,12 +12,15 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "monk": "~1.0.1",
+    "mongodb": "^2.1.16",
+    "mongoose": "^4.4.12",
+    "monk": "*",
     "connect-flash": "*",
-    "express-validator": "*",
+    "express-validator": "^5.3.0",
     "express-session": "*",
     "express-messages": "*",
     "multer": "*",
-    "moment": "*"
+    "moment": "*",
+    "serve-favicon": "~2.3.0"
   }
 }
