@@ -37,6 +37,7 @@ Fields for `categories`
 - name
 
 Fields for `posts`
+- _id
 - title
 - body
 - category
