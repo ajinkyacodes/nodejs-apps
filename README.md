@@ -1,6 +1,6 @@
 # NODE JS Apps
 
-> These are small functionality apps built using Node JS, Express JS, NodeMailer, Bootstrap, and other technologies.
+> These are small functionality apps built using NodeJS, ExpressJS, MongoDB and other technologies.
 
 ## Applications List
 1.  Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
