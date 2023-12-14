@@ -9,11 +9,11 @@
 4.  NodeJS Blog System [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/node-blog)
 
 ## Technologies Used
-1.  NodeJS
-2.  ExpressJS
-3.  JadeJS
-4.  MongoDB
-5.  Bootstrap & More..
+- NodeJS
+- ExpressJS
+- JadeJS
+- MongoDB
+- Bootstrap & More..
 
 ## Prerequisites
 - Git
@@ -36,4 +36,4 @@
 
 `npm start`
 
-> Follow the instructions on each project folder's README file for more info. 
+> Follow the instructions on each project folder's ***README file*** for more info. 
