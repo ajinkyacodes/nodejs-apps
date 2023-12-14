@@ -26,7 +26,9 @@
 
 ##### Clone the latest Repository with multiple projects
 
-`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```bash
+git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```
 
 ##### Into the project directory
 
