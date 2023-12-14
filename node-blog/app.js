@@ -20,6 +20,10 @@ var categoriesRouter = require('./routes/categories');
 var app = express();
 
 app.locals.moment = require('moment');
+app.locals.truncateText = function(text, length){
+  var truncateText = text.substring(0,length);
+  return truncateText;
+}
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
