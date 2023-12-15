@@ -55,6 +55,7 @@ router.post('/add', upload.single('projectimage'), function(req, res, next) {
         description: description,
         service: service,
         client: client,
+        date: projectdate,
         url: url
         });
     } else {
@@ -118,6 +119,7 @@ router.post('/edit/:id', upload.single('projectimage'), function(req, res, next)
             description: description,
             service: service,
             client: client,
+            date: projectdate,
             url: url
             });
         } else {
@@ -139,6 +141,7 @@ router.post('/edit/:id', upload.single('projectimage'), function(req, res, next)
             description: description,
             service: service,
             client: client,
+            date: projectdate,
             url: url
             });
         } else {
