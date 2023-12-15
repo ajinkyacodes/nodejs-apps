@@ -5,7 +5,9 @@
 1.  NodeJS
 2.  ExpressJS
 3.  MySQL
-4.  Multer
+4.  Handlebars
+5.  Foundation UI
+6.  Multer
 
 ## Prerequisites
 - Git
