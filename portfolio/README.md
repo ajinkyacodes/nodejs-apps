@@ -1,14 +1,51 @@
 # Portfolio App
-> It's a simple Portfolio website created using Node JS, Express JS and MySQL.
+> It's a simple basic Portfolio website created using Node JS, Express JS and MySQL. You will perform CRUD operations with projects data.
 
 ## Technologies Used
 1.  NodeJS
 2.  ExpressJS
 3.  MySQL
+4.  Multer
 
 ## Prerequisites
 - Git
 - NodeJS
 - CLI
+- XAMPP
 - MySQL
 - NPM
+
+## Installation
+
+##### Clone the latest Repository
+
+`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+
+##### Into the project directory
+
+`cd portfolio`
+
+##### Create MySQL Database
+
+Create Database `portfolio` with table `projects`
+
+Fields for `projects`
+- id
+- title
+- description
+- client
+- service
+- url
+- image
+- date
+- create_date
+
+##### Installing NPM dependencies
+
+`npm install`
+
+##### Then simply start your app
+
+`node app`
+
+#### The Server should now be running at http://localhost:3000/ 
