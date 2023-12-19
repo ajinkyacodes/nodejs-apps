@@ -30,7 +30,7 @@
 ##### Clone the latest Repository with multiple projects
 
 ```bash
-git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+git clone https://github.com/ajinkyacodes/nodejs-apps.git
 ```
 
 ##### Into the project directory
