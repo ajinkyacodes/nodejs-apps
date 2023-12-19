@@ -22,15 +22,21 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```bash
+git clone https://github.com/ajinkyacodes/nodejs-apps.git
+```
 
 ##### Into the project directory
 
-`cd node-blog`
+```bash
+cd node-blog
+```
 
 ##### Create MongoDB Database and collections
 
+```bash
 `mongodb://localhost:27017/nodeblog` with collections `categories & posts`
+```
 
 Fields for `categories`
 - _id
@@ -48,10 +54,14 @@ Fields for `posts`
 
 ##### Installing NPM dependencies
 
-`npm install`
+```bash
+npm install
+```
 
 ##### Then simply start your app
 
-`npm start`
+```bash
+npm start
+```
 
 #### The Server should now be running at http://localhost:3000/ 
