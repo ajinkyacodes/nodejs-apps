@@ -21,15 +21,21 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```bash
+git clone https://github.com/ajinkyacodes/nodejs-apps.git
+```
 
 ##### Into the project directory
 
-`cd portfolio`
+```bash
+cd portfolio
+```
 
 ##### Create MySQL Database
 
+```bash
 Create Database `portfolio` with table `projects`
+```
 
 Fields for `projects`
 - id
@@ -44,10 +50,14 @@ Fields for `projects`
 
 ##### Installing NPM dependencies
 
-`npm install`
+```bash
+npm install
+```
 
 ##### Then simply start your app
 
-`node app`
+```bash
+node app
+```
 
 #### The Server should now be running at http://localhost:3000/ 
