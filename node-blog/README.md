@@ -35,7 +35,7 @@ cd node-blog
 ##### Create MongoDB Database and collections
 
 ```bash
-`mongodb://localhost:27017/nodeblog` with collections `categories` & `posts`
+`mongodb://localhost:27017/nodeblog` with collections `categories` and `posts`
 ```
 
 Fields for `categories`
