@@ -24,15 +24,21 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```bash
+git clone https://github.com/ajinkyacodes/nodejs-apps.git
+```
 
 ##### Into the project directory
 
-`cd node-auth`
+```bash
+cd node-auth
+```
 
 ##### Create MongoDB Database and collection
 
-`mongodb://localhost:27017/nodeauth.users`
+```bash
+mongodb://localhost:27017/nodeauth.users
+```
 
 With different fields
 - _id
@@ -44,10 +50,14 @@ With different fields
 
 ##### Installing NPM dependencies
 
-`npm install`
+```bash
+npm install
+```
 
 ##### Then simply start your app
 
-`npm start`
+```bash
+npm start
+```
 
 #### The Server should now be running at http://localhost:3000/ 
