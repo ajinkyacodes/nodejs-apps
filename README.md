@@ -1,6 +1,6 @@
 # NODE JS Apps
 
-> These are small functionality apps built using NodeJS, ExpressJS, MongoDB and other technologies.
+> This repo contains small functionality apps built using NodeJS, ExpressJS and other technologies.
 
 ## Applications List
 1.  Simple Web Server [:memo:](https://github.com/ajinkyacodes/nodejs-apps/tree/master/simple-web-server)
@@ -12,16 +12,18 @@
 ## Technologies Used
 - NodeJS
 - ExpressJS
-- JadeJS
+- Node Templates
 - MongoDB
+- MySQL
 - Bootstrap & More..
 
 ## Prerequisites
 - Git
 - NodeJS
 - CLI
-- MongoDB
 - NPM
+- MongoDB
+- MySQL
 
 ## Installation
 
@@ -33,11 +35,15 @@ git clone https://github.com/ajinkyacodes/nodejs-apps.git`
 
 ##### Into the project directory
 
-`cd project-folder`
+```bash
+cd project-folder
+```
 
 ##### Then simply start your app
 
-`npm start`
+```bash
+npm start
+```
 
 > Follow the instructions on each project folder's ***README file*** for more info. 
 
