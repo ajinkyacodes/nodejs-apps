@@ -14,18 +14,26 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/ajinkyacodes/nodejs-apps.git`
+```bash
+git clone https://github.com/ajinkyacodes/nodejs-apps.git
+```
 
 ##### Into the project directory
 
-`cd simple-web-server`
+```bash
+cd simple-web-server
+```
 
 ##### Installing NPM dependencies
 
-`npm install`
+```bash
+npm install
+```
 
 ##### Then simply start your app
 
-`node server.js`
+```bash
+node server.js
+```
 
 #### The Server should now be running at http://localhost:3500/ 
